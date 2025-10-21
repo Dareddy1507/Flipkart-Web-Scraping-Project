@@ -33,11 +33,9 @@ pip install requests beautifulsoup4 pandas
 
 Clone this repository
 
-git clone [https://github.com/ramannagarichakravardhan0608/flipkart-fashion-webscraping.git
-cd flipkart-fashion-webscraping
-](https://github.com/Dareddy1507/Flipkart-Web-Scraping-Project)
+git clone (https://github.com/Dareddy1507/Flipkart-Web-Scraping-Project)
 Open the Jupyter Notebook
-jupyter notebook "nani (1).ipynb"
+jupyter notebook "Web-Scraping-Project"
 
 
 Run all cells
